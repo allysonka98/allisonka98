@@ -4,10 +4,12 @@
 
 <p align="center">I ❤️ solve great challenges using tech. 
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=allisonka98&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-allisonka98.vercel.app/api/top-langs/?username=allisonka98&show_icons=true&theme=radical&layout=compact" />
- </div>
+![](https://github-readme-stats.vercel.app/api?username=NathanpSantos&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NathanpSantos&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanpSantos&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NathanpSantos&icon=0&color=1)](https://visitcount.itsvg.in)
  
  &nbsp;
  &nbsp;
