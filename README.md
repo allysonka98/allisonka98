@@ -4,12 +4,12 @@
 
 <p align="center">I ❤️ so great challenges using tech. 
 
-![](https://github-readme-stats.vercel.app/api?username=allisonka98&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=allisonka98&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonka98&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=allysonka98&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=allysonka98&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=allysonka98&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=allisonka98&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=allysonka98&icon=0&color=1)](https://visitcount.itsvg.in)
  
  &nbsp;
  &nbsp;
